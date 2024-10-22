@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://videbean.github.io/videbean.videbean
+Sitemap: https://videbean.github.io/app/videbean.videbean
+Sitemap: https://videbean.github.io/assets/videbean.videbean
+Sitemap: https://videbean.github.io/css/videbean.videbean
+Sitemap: https://videbean.github.io/includes/videbean.videbean
+Sitemap: https://videbean.github.io/item/videbean.videbean
+Sitemap: https://videbean.github.io/src/videbean.videbean
